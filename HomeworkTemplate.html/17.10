@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Module 1</title>
+</head>
+<body>
+    <!-- Заголовки -->
+    <h1>Це заговолок 1 рівня</h1>
+    <h1>Це заговолок 1</h1>
+    <h2>Це заговолок 2</h2>
+    <h3>Це заговолок 3</h3>
+    <h4>Це заговолок 4</h4>
+    <h5>Це заговолок 5</h5>
+    <h6>Це заговолок 6</h6>
+
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut mollitia accusantium corporis nobis ratione quod iure a illum sed, id iste temporibus excepturi, vitae, totam possimus voluptate rerum molestias quisquam.</p>
+    <a href="https://www.google.com/" target="_blank">Google</a>
+    <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="Логотип гугла">
+
+    <a href="https://www.google.com/"> 
+        <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="Логотип гугла">
+    </a>
+    <!-- списки -->
+  <ul>
+      <li>Елемент списку 1</li>
+      <li>Елемент списку 2</li>
+      <li>Елемент списку 3</li>
+      <li>Елемент списку 4</li>
+      <li>Елемент списку 5</li>
+      <li>Елемент списку 6</li>
+      <li>Елемент списку 7</li>
+      <li>Елемент списку 8</li>
+      <li>Елемент списку 9</li>
+  </ul>
+  <ol>
+      <li>List item</li>
+      <li>List item</li>
+      <li>List item</li>
+      <li>List item</li>
+      <li>List item</li>
+  </ol>
+  <p>Lorem <b>ipsum dolor sit amet</b> consectetur <i>adipisicing elit. Dignissimos eius,</i> temporibus incidunt quos distinctio quo facere, <u>est, magni at impedit sapiente</u> saepe <mark>quae numquam</mark> <strong>reprehenderit ullam</strong> delectus rerum autem cupiditate.</p>
